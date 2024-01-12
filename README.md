@@ -2,6 +2,9 @@
 
 A multiplayer bomberman like game.
 
+[![Watch the video](https://img.youtube.com/vi/9O49n-4K7Bk/maxresdefault.jpg)](https://youtu.be/9O49n-4K7Bk)
+
+
 ## Description
 
 This CPP project is the final project of my second year at Epitech.

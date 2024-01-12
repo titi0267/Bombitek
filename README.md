@@ -18,6 +18,4 @@ Collect powers like larger bombs, speed powers or even stun powers and be the la
 
 [@BotS1lent](https://github.com/BotS1lent)
 
-[@MaximeHff](https://github.com/MaximeHff)
-
 [@ludovic-str](https://github.com/ludovic-str)

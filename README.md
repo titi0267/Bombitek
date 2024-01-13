@@ -22,3 +22,7 @@ Collect powers like larger bombs, speed powers or even stun powers and be the la
 [@BotS1lent](https://github.com/BotS1lent)
 
 [@ludovic-str](https://github.com/ludovic-str)
+
+[@titi0267](https://github.com/titi0267)
+
+
